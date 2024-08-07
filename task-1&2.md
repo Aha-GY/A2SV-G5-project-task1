@@ -23,8 +23,8 @@ This is a simple todo list app that allows you to add, delete and edit tasks.
 
 ## Pages
 ### Home Page
-![Home Page](home.png)
+![Home Page](home-1.png)
 ### Add Task
-![Add Task](add.png)
+![Add Task](addtask.png)
 ### Edit Task
-![Edit Task](edit.png)
+![Edit Task](edit-1.png)
